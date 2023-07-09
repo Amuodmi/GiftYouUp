@@ -31,9 +31,9 @@ Dashboard
 
 ## Links
 
-GitHub Repo: https://github.com/tienrdrz/Gift_You_Up
+GitHub Repo: https://github.com/Amuodmi/GiftYouUp
 
-Deployed Website via Heroku: https://secret-anchorage-62343.herokuapp.com/
+Deployed Website via Render: https://gift-you-up.onrender.com/
 
 ## Contributing Users
 
